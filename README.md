@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @connect-raj
+- 👋 Hi, I’m Raj
 - 👀 I’m interested in WEB DEVELOPMENT<JAVASCRIPT>,JAVA PROGRAMMING
 - 🌱 I’m currently learning REACT JS
 - 💞️ I’m looking to collaborate on currently not interested
