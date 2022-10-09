@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Raj
 - 👀 I’m interested in WEB DEVELOPMENT<JAVASCRIPT>,JAVA PROGRAMMING
 - 🌱 I’m currently learning REACT JS
-- 💞️ I’m looking to collaborate on currently not interested
+- 💞️ I’m currently not interested in Collabaration
 - 📫 How to reach me connect.rajtrivedi@gmail.com
 
 <!---
